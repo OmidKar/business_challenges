@@ -1,0 +1,89 @@
+c1,c2,prob_c2_given_c1
+Anaheim CA,Windsor ON,0.7481203007518797
+Arlington TX,Windsor ON,0.3805309734513274
+Atlanta GA,Windsor ON,0.9523809523809523
+Austin TX,Windsor ON,0.6638655462184874
+Bakersfield CA,Windsor ON,0.28205128205128205
+Baltimore MD,Windsor ON,0.9047619047619048
+Birmingham AL,Toledo OH,0.0
+Boston MA,Windsor ON,0.17197452229299362
+Buffalo NY,Windsor ON,0.2689655172413793
+Calgary AB,Windsor ON,0.18181818181818182
+Chandler AZ,Toledo OH,0.0
+Charlotte NC,Windsor ON,0.3333333333333333
+Chesapeake VA,Toledo OH,0.0
+Chicago IL,Windsor ON,0.13643254168772107
+Cincinnati OH,Windsor ON,0.6612903225806451
+Cleveland OH,Windsor ON,0.6
+Columbus OH,Windsor ON,0.07650273224043716
+Corpus Christi TX,Toledo OH,0.6330275229357798
+Dallas TX,Windsor ON,0.1248097412480974
+Detroit MI,Windsor ON,0.14988290398126464
+Fort Wayne IN,Windsor ON,0.6344827586206897
+Fort Worth TX,Windsor ON,0.28440366972477066
+Fresno CA,Toledo OH,0.0
+Glendale AZ,Windsor ON,1.0
+Greensboro NC,Toledo OH,0.5
+Halifax NS,Windsor ON,1.0
+Hamilton ON,Toledo OH,0.004608294930875576
+Hialeah FL,Windsor ON,0.2916666666666667
+Houston TX,Toledo OH,0.007890961262553802
+Indianapolis IN,Toledo OH,0.02771855010660981
+Jacksonville FL,Windsor ON,0.11576354679802955
+Jersey City NJ,Windsor ON,0.4075286415711948
+Kansas City MO,Windsor ON,0.5
+Kitchener ON,Windsor ON,0.3617021276595745
+Lexington KY,Toledo OH,0.7894736842105263
+Lincoln NE,Windsor ON,0.6666666666666666
+London ON,Windsor ON,0.32
+Long Beach CA,Windsor ON,0.8624161073825504
+Los Angeles CA,Windsor ON,0.12537425149700598
+Louisville KY,Windsor ON,0.8490566037735849
+Madison WI,Windsor ON,0.11304347826086956
+Memphis TN,Windsor ON,1.0
+Mesa AZ,Windsor ON,1.0
+Miami FL,Windsor ON,1.0
+Milwaukee WI,Windsor ON,0.3259668508287293
+Minneapolis MN,Windsor ON,1.0
+Montreal QC,Windsor ON,0.1348458904109589
+Nashville TN,Windsor ON,0.625
+New Orleans LA,Toledo OH,1.0
+New York NY,Windsor ON,0.10240626748740907
+Newark NJ,Toledo OH,0.013232514177693762
+Norfolk VA,Windsor ON,0.7948717948717948
+OTTAWA ON,Windsor ON,0.3818443804034582
+Oakland CA,Windsor ON,0.19607843137254902
+Oklahoma City OK,Windsor ON,0.22857142857142856
+Omaha NE,Windsor ON,1.0
+Oshawa ON,Windsor ON,0.7890410958904109
+Philadelphia PA,Windsor ON,0.4053030303030303
+Phoenix AZ,Windsor ON,0.07607192254495158
+Pittsburgh PA,Toledo OH,1.0
+Plano TX,Windsor ON,0.21505376344086022
+Portland OR,Windsor ON,0.17757009345794392
+Quebec QC,Toledo OH,0.06896551724137931
+Raleigh NC,Windsor ON,0.75
+Riverside CA,Windsor ON,0.7191011235955056
+Sacramento CA,Toledo OH,0.1875
+Saint Catharines-Niagara ON,Windsor ON,0.2973856209150327
+Saint Paul MN,Windsor ON,0.0
+Saint Petersburg FL,Toledo OH,0.0
+San Antonio TX,Windsor ON,0.1909212283044059
+San Diego CA,Windsor ON,0.02127659574468085
+San Francisco CA,Windsor ON,0.9772727272727273
+San Jose CA,Windsor ON,0.12048192771084337
+Santa Ana CA,Windsor ON,0.7021276595744681
+Scottsdale AZ,Windsor ON,1.0
+Seattle WA,Windsor ON,0.2887700534759358
+Stockton CA,Windsor ON,0.40540540540540543
+Tampa FL,Toledo OH,0.3829787234042553
+Toledo OH,Edmonton AB,0.0
+Toronto ON,Windsor ON,0.1280878316559927
+Tucson AZ,Windsor ON,1.0
+Tulsa OK,Windsor ON,1.0
+Vancouver BC,Windsor ON,0.11337209302325581
+Victoria BC,Windsor ON,0.41116751269035534
+Virginia Beach VA,Windsor ON,0.8823529411764706
+WASHINGTON DC,Windsor ON,0.7831325301204819
+Wichita KS,Windsor ON,1.0
+Windsor ON,Toledo OH,0.45121951219512196
